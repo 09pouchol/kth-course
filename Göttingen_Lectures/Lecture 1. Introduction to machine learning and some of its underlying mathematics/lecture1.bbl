@@ -1,0 +1,2522 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Auer%
+, Herbster%
+\BCBL {}\ \BBA {} Warmuth%
+}{%
+Auer%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1996}}%
+}]{%
+Auer:1996aa}
+\APACinsertmetastar {%
+Auer:1996aa}%
+\begin{APACrefauthors}%
+Auer, P.%
+, Herbster, M.%
+\BCBL {}\ \BBA {} Warmuth, M\BPBI K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1996}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Exponentially many local minima for single neurons}
+  {Exponentially many local minima for single neurons}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Advances in Neural Information Processing
+  Systems}{8}{}{316--322}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Banerjee%
+, Guo%
+\BCBL {}\ \BBA {} Wang%
+}{%
+Banerjee%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2005}}%
+}]{%
+Banerjee:2005aa}
+\APACinsertmetastar {%
+Banerjee:2005aa}%
+\begin{APACrefauthors}%
+Banerjee, A.%
+, Guo, X.%
+\BCBL {}\ \BBA {} Wang, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {On the Optimality of Conditional Expectation as a
+  {Bregman} Predictor} {On the optimality of conditional expectation as a
+  {Bregman} predictor}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{IEEE Transactions on Information
+  Theory}{51}{7}{2664--2669}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bengio%
+}{%
+Bengio%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+Bengio:2009aa}
+\APACinsertmetastar {%
+Bengio:2009aa}%
+\begin{APACrefauthors}%
+Bengio, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Learning Deep Architectures for {AI}} {Learning deep
+  architectures for {AI}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Foundations and Trends in Machine
+  Learning}{2}{1}{1--127}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bishop%
+}{%
+Bishop%
+}{%
+{\protect \APACyear {1995}}%
+}]{%
+Bishop:1995aa}
+\APACinsertmetastar {%
+Bishop:1995aa}%
+\begin{APACrefauthors}%
+Bishop, C\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1995}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Training with noise is equivalent to {Tikhonov}
+  regularization} {Training with noise is equivalent to {Tikhonov}
+  regularization}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Neural computation}{7}{1}{108--116}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bousquet%
+\ \BBA {} Elissee%
+}{%
+Bousquet%
+\ \BBA {} Elissee%
+}{%
+{\protect \APACyear {2002}}%
+}]{%
+Bousquet:2002aa}
+\APACinsertmetastar {%
+Bousquet:2002aa}%
+\begin{APACrefauthors}%
+Bousquet, O.%
+\BCBT {}\ \BBA {} Elissee, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2002}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Stability and generalization} {Stability and
+  generalization}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Machine Learning Research}{2}{}{499--526}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bruna%
+\ \BBA {} Mallat%
+}{%
+Bruna%
+\ \BBA {} Mallat%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+Bruna:2013aa}
+\APACinsertmetastar {%
+Bruna:2013aa}%
+\begin{APACrefauthors}%
+Bruna, J.%
+\BCBT {}\ \BBA {} Mallat, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Invariant Scattering Convolution Networks} {Invariant
+  scattering convolution networks}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{IEEE Transactions on Pattern Analysis and Machine
+  Intelligence}{35}{8}{1872--1886}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bruna%
+, Szlam%
+\BCBL {}\ \BBA {} LeCun%
+}{%
+Bruna%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+Bruna:2013ab}
+\APACinsertmetastar {%
+Bruna:2013ab}%
+\begin{APACrefauthors}%
+Bruna, J.%
+, Szlam, A.%
+\BCBL {}\ \BBA {} LeCun, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Learning Stable Group Invariant Representations with
+  Convolutional Networks} {Learning stable group invariant representations with
+  convolutional networks}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv}{1301.3537}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bruna%
+, Szlam%
+\BCBL {}\ \BBA {} LeCun%
+}{%
+Bruna%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+Bruna:2014aa}
+\APACinsertmetastar {%
+Bruna:2014aa}%
+\begin{APACrefauthors}%
+Bruna, J.%
+, Szlam, A.%
+\BCBL {}\ \BBA {} LeCun, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Signal recovery from Pooling Representations} {Signal
+  recovery from pooling representations}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv}{1311.4025v3}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Choromanska%
+, Henaff%
+, Mathieu%
+, Arous%
+\BCBL {}\ \BBA {} LeCun%
+}{%
+Choromanska%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+Choromanska:2015aa}
+\APACinsertmetastar {%
+Choromanska:2015aa}%
+\begin{APACrefauthors}%
+Choromanska, A.%
+, Henaff, M.%
+, Mathieu, M.%
+, Arous, G\BPBI B.%
+\BCBL {}\ \BBA {} LeCun, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The loss surfaces of multilayer networks} {The loss
+  surfaces of multilayer networks}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {{International Conference on Artificial Intelligence and
+  Statistics}} {{International Conference on Artificial Intelligence and
+  Statistics}}\ (\BPGS\ 192--204).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ciregan%
+, Meier%
+\BCBL {}\ \BBA {} Schmidhuber%
+}{%
+Ciregan%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2012}}%
+}]{%
+Ciregan:2012aa}
+\APACinsertmetastar {%
+Ciregan:2012aa}%
+\begin{APACrefauthors}%
+Ciregan, D.%
+, Meier, U.%
+\BCBL {}\ \BBA {} Schmidhuber, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Multi-column deep neural networks for image
+  classification} {Multi-column deep neural networks for image
+  classification}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {2012 IEEE Conference on Computer Vision and Pattern
+  Recognition (CVPR)} {2012 ieee conference on computer vision and pattern
+  recognition (cvpr)}\ (\BPGS\ 3642--3649).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Cybenko%
+}{%
+Cybenko%
+}{%
+{\protect \APACyear {1989}}%
+}]{%
+Cybenko:1989aa}
+\APACinsertmetastar {%
+Cybenko:1989aa}%
+\begin{APACrefauthors}%
+Cybenko, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1989}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Approximations by superpositions of sigmoidal functions}
+  {Approximations by superpositions of sigmoidal functions}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Mathematics of Control, Signals, and
+  Systems}{2}{4}{303--314}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+G\BPBI E.~Dahl%
+, Sainath%
+\BCBL {}\ \BBA {} Hinton%
+}{%
+G\BPBI E.~Dahl%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+Dahl:2013aa}
+\APACinsertmetastar {%
+Dahl:2013aa}%
+\begin{APACrefauthors}%
+Dahl, G\BPBI E.%
+, Sainath, T\BPBI N.%
+\BCBL {}\ \BBA {} Hinton, G\BPBI E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Improving deep neural networks for {LVCSR} using
+  rectified linear units and dropout} {Improving deep neural networks for
+  {LVCSR} using rectified linear units and dropout}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {{IEEE International Conference on Acoustics, Speech and
+  Signal Processing}} {{IEEE International Conference on Acoustics, Speech and
+  Signal Processing}}\ (\BPGS\ 8609--8613).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+R.~Dahl%
+, Norouzi%
+\BCBL {}\ \BBA {} Shlens%
+}{%
+R.~Dahl%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+Dahl:2017aa}
+\APACinsertmetastar {%
+Dahl:2017aa}%
+\begin{APACrefauthors}%
+Dahl, R.%
+, Norouzi, M.%
+\BCBL {}\ \BBA {} Shlens, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Pixel Recursive Super Resolution} {Pixel recursive super
+  resolution}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv}{1702.00783v2}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Dauphin%
+\ \protect \BOthers {.}}{%
+Dauphin%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+Dauphin:2014aa}
+\APACinsertmetastar {%
+Dauphin:2014aa}%
+\begin{APACrefauthors}%
+Dauphin, Y\BPBI N.%
+, Pascanu, R.%
+, Gulcehre, C.%
+, Cho, K.%
+, Ganguli, S.%
+\BCBL {}\ \BBA {} Bengio, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Identifying and attacking the saddle point problem in
+  high-dimensional non-convex optimization} {Identifying and attacking the
+  saddle point problem in high-dimensional non-convex optimization}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {{NIPS'14 Proceedings of the 27th International
+  Conference on Neural Information Processing Systems}} {{NIPS'14 Proceedings
+  of the 27th International Conference on Neural Information Processing
+  Systems}}\ (\BVOL~2, \BPGS\ 2933--2941).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Denkowski%
+\ \BBA {} Neubig%
+}{%
+Denkowski%
+\ \BBA {} Neubig%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+Denkowski:2017aa}
+\APACinsertmetastar {%
+Denkowski:2017aa}%
+\begin{APACrefauthors}%
+Denkowski, M.%
+\BCBT {}\ \BBA {} Neubig, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Stronger Baselines for Trustable Results in Neural
+  Machine Translation} {Stronger baselines for trustable results in neural
+  machine translation}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv}{1706.09733}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Dinh%
+, Pascanu%
+, Bengio%
+\BCBL {}\ \BBA {} Bengio%
+}{%
+Dinh%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+Dinh:2017aa}
+\APACinsertmetastar {%
+Dinh:2017aa}%
+\begin{APACrefauthors}%
+Dinh, L.%
+, Pascanu, R.%
+, Bengio, S.%
+\BCBL {}\ \BBA {} Bengio, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Sharp minima can generalize for deep nets} {Sharp minima
+  can generalize for deep nets}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv}{1703.04933}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Du%
+\ \protect \BOthers {.}}{%
+Du%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+Du:2017aa}
+\APACinsertmetastar {%
+Du:2017aa}%
+\begin{APACrefauthors}%
+Du, S\BPBI S.%
+, Jin, C.%
+, Lee, J\BPBI D.%
+, Jordan, M\BPBI I.%
+, Poczos, B.%
+\BCBL {}\ \BBA {} Singh, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Gradient Descent Can Take Exponential Time to Escape
+  Saddle Points} {Gradient descent can take exponential time to escape saddle
+  points}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv}{1705.10412v2}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Duchi%
+, Hazan%
+\BCBL {}\ \BBA {} Singer%
+}{%
+Duchi%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+Duchi:2011aa}
+\APACinsertmetastar {%
+Duchi:2011aa}%
+\begin{APACrefauthors}%
+Duchi, J.%
+, Hazan, E.%
+\BCBL {}\ \BBA {} Singer, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {daptive Subgradient Methods for Online Learning and
+  Stochastic Optimization} {daptive subgradient methods for online learning and
+  stochastic optimization}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Machine Learning
+  Research}{12}{}{2121--2159}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ferrucci%
+, Levas%
+, Bagchi%
+, Gondek%
+\BCBL {}\ \BBA {} Mueller%
+}{%
+Ferrucci%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+Ferrucci:2013aa}
+\APACinsertmetastar {%
+Ferrucci:2013aa}%
+\begin{APACrefauthors}%
+Ferrucci, D.%
+, Levas, A.%
+, Bagchi, S.%
+, Gondek, D.%
+\BCBL {}\ \BBA {} Mueller, E\BPBI T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Watson: Beyond Jeopardy!}} {{Watson: Beyond
+  Jeopardy!}}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Artificial Intelligence}{199--200}{}{93--105}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gatys%
+, Ecker%
+\BCBL {}\ \BBA {} Bethge%
+}{%
+Gatys%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+Gatys:2016aa}
+\APACinsertmetastar {%
+Gatys:2016aa}%
+\begin{APACrefauthors}%
+Gatys, L\BPBI A.%
+, Ecker, A\BPBI S.%
+\BCBL {}\ \BBA {} Bethge, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Image Style Transfer Using Convolutional Neural
+  Networks} {Image style transfer using convolutional neural networks}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {{2016 IEEE Conference on Computer Vision and Pattern
+  Recognition (CVPR)}} {{2016 IEEE Conference on Computer Vision and Pattern
+  Recognition (CVPR)}}\ (\BPGS\ 2414--2423).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ge%
+, Huang%
+, Jin%
+\BCBL {}\ \BBA {} Yuan%
+}{%
+Ge%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+Ge:2015aa}
+\APACinsertmetastar {%
+Ge:2015aa}%
+\begin{APACrefauthors}%
+Ge, R.%
+, Huang, F.%
+, Jin, C.%
+\BCBL {}\ \BBA {} Yuan, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Escaping From Saddle Points -- Online Stochastic
+  Gradient for Tensor Decomposition} {Escaping from saddle points -- online
+  stochastic gradient for tensor decomposition}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {{JMLR: Workshop and Conference Proceedings}} {{JMLR:
+  Workshop and Conference Proceedings}}\ (\BVOL~40, \BPGS\ 1--46).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+G{\'e}ron%
+}{%
+G{\'e}ron%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+Geron:2017aa}
+\APACinsertmetastar {%
+Geron:2017aa}%
+\begin{APACrefauthors}%
+G{\'e}ron, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2017}.
+\newblock
+\APACrefbtitle {Hands-On Machine Learning with Scikit-Learn \& Tensorflow}
+  {Hands-on machine learning with scikit-learn \& tensorflow}.
+\newblock
+\APACaddressPublisher{}{O'Reilly}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Giryes%
+, Sapiro%
+\BCBL {}\ \BBA {} Bronstein%
+}{%
+Giryes%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+Giryes:2016aa}
+\APACinsertmetastar {%
+Giryes:2016aa}%
+\begin{APACrefauthors}%
+Giryes, R.%
+, Sapiro, G.%
+\BCBL {}\ \BBA {} Bronstein, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Deep neural networks with random {Gaussian} weights: {A}
+  universal classification strategy?} {Deep neural networks with random
+  {Gaussian} weights: {A} universal classification strategy?}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{IEEE Transactions on Signal
+  Processing}{64}{13}{3444--3457}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Glorot%
+, Bordes%
+\BCBL {}\ \BBA {} Bengio%
+}{%
+Glorot%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+Glorot:2011aa}
+\APACinsertmetastar {%
+Glorot:2011aa}%
+\begin{APACrefauthors}%
+Glorot, X.%
+, Bordes, A.%
+\BCBL {}\ \BBA {} Bengio, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Deep sparse rectifier neural networks} {Deep sparse
+  rectifier neural networks}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the International Conference on
+  Artificial Intelligence and Statistics (AISTATS){\S}} {Proceedings of the
+  international conference on artificial intelligence and statistics
+  (aistats){\S}}\ (\BPGS\ 315--323).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Goodfellow%
+, Shlens%
+\BCBL {}\ \BBA {} Szegedy%
+}{%
+Goodfellow%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+Goodfellow:2015aa}
+\APACinsertmetastar {%
+Goodfellow:2015aa}%
+\begin{APACrefauthors}%
+Goodfellow, I.%
+, Shlens, J.%
+\BCBL {}\ \BBA {} Szegedy, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Explaining and Harnessing Adversarial Examples}
+  {Explaining and harnessing adversarial examples}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {{3rd International Conference on Learning
+  Representations (ICLR 2015)}.} {{3rd International Conference on Learning
+  Representations (ICLR 2015)}.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Goodfellow%
+, Warde-Farley%
+, Mirza%
+, Courville%
+\BCBL {}\ \BBA {} Bengio%
+}{%
+Goodfellow%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+Goodfellow:2013aa}
+\APACinsertmetastar {%
+Goodfellow:2013aa}%
+\begin{APACrefauthors}%
+Goodfellow, I.%
+, Warde-Farley, D.%
+, Mirza, M.%
+, Courville, A.%
+\BCBL {}\ \BBA {} Bengio, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Maxout networks} {Maxout networks}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the International Conference on Machine
+  Learning (ICML)} {Proceedings of the international conference on machine
+  learning (icml)}\ (\BVOL~28, \BPGS\ 1319--1327).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Haeffeleand%
+\ \BBA {} Vidal%
+}{%
+Haeffeleand%
+\ \BBA {} Vidal%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+Haeffeleand:2017aa}
+\APACinsertmetastar {%
+Haeffeleand:2017aa}%
+\begin{APACrefauthors}%
+Haeffeleand, B.%
+\BCBT {}\ \BBA {} Vidal, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Global optimality in neural network training} {Global
+  optimality in neural network training}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {{IEEE Conference on Computer Vision and Pattern
+  Recognition (CVPR)}} {{IEEE Conference on Computer Vision and Pattern
+  Recognition (CVPR)}}\ (\BPGS\ 4390--4398).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+He%
+, Zhang%
+, Ren%
+\BCBL {}\ \BBA {} Sun%
+}{%
+He%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+He:2016aa}
+\APACinsertmetastar {%
+He:2016aa}%
+\begin{APACrefauthors}%
+He, K.%
+, Zhang, X.%
+, Ren, S.%
+\BCBL {}\ \BBA {} Sun, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Deep Residual Learning for Image Recognition} {Deep
+  residual learning for image recognition}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {{2016 IEEE Conference on Computer Vision and Pattern
+  Recognition (CVPR)}} {{2016 IEEE Conference on Computer Vision and Pattern
+  Recognition (CVPR)}}\ (\BPGS\ 770--778).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hestness%
+\ \protect \BOthers {.}}{%
+Hestness%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+Hestness:2017aa}
+\APACinsertmetastar {%
+Hestness:2017aa}%
+\begin{APACrefauthors}%
+Hestness, J.%
+, Narang, S.%
+, Ardalani, N.%
+, Diamos, G.%
+, Jun, H.%
+, Kianinejad, H.%
+\BDBL {}Zhou, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Deep Learning Scaling is Predictable, Empirically} {Deep
+  learning scaling is predictable, empirically}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv}{1712.00409}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hinton%
+, Srivastava%
+, Krizhevsky%
+\BCBL {}\ \BBA {} Salakhutdinov%
+}{%
+Hinton%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2012}}%
+}]{%
+Hinton:2012aa}
+\APACinsertmetastar {%
+Hinton:2012aa}%
+\begin{APACrefauthors}%
+Hinton, G\BPBI E.%
+, Srivastava, N.%
+, Krizhevsky, A.%
+\BCBL {}\ \BBA {} Salakhutdinov, R\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Improving neural networks by preventing co-adaptation of
+  feature detectors} {Improving neural networks by preventing co-adaptation of
+  feature detectors}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv}{1207.0580}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+H{\"o}rmander%
+}{%
+H{\"o}rmander%
+}{%
+{\protect \APACyear {1971}}%
+}]{%
+Hormander:1971aa}
+\APACinsertmetastar {%
+Hormander:1971aa}%
+\begin{APACrefauthors}%
+H{\"o}rmander, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1971}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Fourier Integral Operators {I}} {Fourier integral
+  operators {I}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Acta Mathematica}{127}{79--183}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hornik%
+}{%
+Hornik%
+}{%
+{\protect \APACyear {1991}}%
+}]{%
+Hornik:1991aa}
+\APACinsertmetastar {%
+Hornik:1991aa}%
+\begin{APACrefauthors}%
+Hornik, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1991}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Approximation Capabilities of Multilayer Feedforward
+  Networks} {Approximation capabilities of multilayer feedforward
+  networks}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Neural Networks}{4}{2}{251--257}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Iizuka%
+, Simo-Serra%
+\BCBL {}\ \BBA {} Ishikawa%
+}{%
+Iizuka%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+Iizuka:2016aa}
+\APACinsertmetastar {%
+Iizuka:2016aa}%
+\begin{APACrefauthors}%
+Iizuka, S.%
+, Simo-Serra, E.%
+\BCBL {}\ \BBA {} Ishikawa, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Let there be Color!: {Joint} End-to-end Learning of
+  Global and Local Image Priors for Automatic Image Colorization with
+  Simultaneous Classification} {Let there be color!: {Joint} end-to-end
+  learning of global and local image priors for automatic image colorization
+  with simultaneous classification}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{ACM Transactions on Graphics}{35}{4}{}.
+\newblock
+\APACrefnote{Proceedings of ACM SIGGRAPH 2016}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ioffe%
+\ \BBA {} Szegedy%
+}{%
+Ioffe%
+\ \BBA {} Szegedy%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+Ioffe:2015ab}
+\APACinsertmetastar {%
+Ioffe:2015ab}%
+\begin{APACrefauthors}%
+Ioffe, S.%
+\BCBT {}\ \BBA {} Szegedy, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Batch Normalization: Accelerating Deep Network Training
+  by Reducing Internal Covariate Shift} {Batch normalization: Accelerating deep
+  network training by reducing internal covariate shift}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv}{1502.03167v3}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Jarrett%
+, Kavuk{\c c}uo{\u g}lu%
+, Ranzato%
+\BCBL {}\ \BBA {} LeCun%
+}{%
+Jarrett%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2009}}%
+}]{%
+Jarrett:2009aa}
+\APACinsertmetastar {%
+Jarrett:2009aa}%
+\begin{APACrefauthors}%
+Jarrett, K.%
+, Kavuk{\c c}uo{\u g}lu, K.%
+, Ranzato, M\BPBI A.%
+\BCBL {}\ \BBA {} LeCun, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {What is the best multi-stage architecture for object
+  recognition?} {What is the best multi-stage architecture for object
+  recognition?}{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {2009 IEEE 12th International Conference on Computer
+  Vision} {2009 ieee 12th international conference on computer vision}\ (\BPGS\
+  2146--2153).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Karpathy%
+\ \BBA {} Fei-Fei%
+}{%
+Karpathy%
+\ \BBA {} Fei-Fei%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+Karpathy:2017aa}
+\APACinsertmetastar {%
+Karpathy:2017aa}%
+\begin{APACrefauthors}%
+Karpathy, A.%
+\BCBT {}\ \BBA {} Fei-Fei, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Deep Visual-Semantic Alignments for Generating Image
+  Descriptions} {Deep visual-semantic alignments for generating image
+  descriptions}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{IEEE Transactions on Pattern Analysis and Machine
+  Intelligence}{39}{4}{664--676}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kawaguchi%
+}{%
+Kawaguchi%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+Kawaguchi:2016aa}
+\APACinsertmetastar {%
+Kawaguchi:2016aa}%
+\begin{APACrefauthors}%
+Kawaguchi, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Deep Learning without Poor Local Minima} {Deep learning
+  without poor local minima}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {{30th Conference on Neural Information Processing
+  Systems (NIPS 2016)}.} {{30th Conference on Neural Information Processing
+  Systems (NIPS 2016)}.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kawaguchi%
+, Kaelbling%
+\BCBL {}\ \BBA {} Bengio%
+}{%
+Kawaguchi%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+Kawaguchi:2018aa}
+\APACinsertmetastar {%
+Kawaguchi:2018aa}%
+\begin{APACrefauthors}%
+Kawaguchi, K.%
+, Kaelbling, L\BPBI P.%
+\BCBL {}\ \BBA {} Bengio, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Generalization in Deep Learning} {Generalization in deep
+  learning}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv}{1710.05468v3}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kingma%
+\ \BBA {} Ba%
+}{%
+Kingma%
+\ \BBA {} Ba%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+Kingma:2017aa}
+\APACinsertmetastar {%
+Kingma:2017aa}%
+\begin{APACrefauthors}%
+Kingma, D\BPBI P.%
+\BCBT {}\ \BBA {} Ba, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Adam: A Method for Stochastic Optimization} {Adam: A
+  method for stochastic optimization}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv}{1412.6980v9}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Krizhevsky%
+, Sutskever%
+\BCBL {}\ \BBA {} Hinton%
+}{%
+Krizhevsky%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2012}}%
+}]{%
+Krizhevsky:2012aa}
+\APACinsertmetastar {%
+Krizhevsky:2012aa}%
+\begin{APACrefauthors}%
+Krizhevsky, A.%
+, Sutskever, I.%
+\BCBL {}\ \BBA {} Hinton, G\BPBI E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{ImageNet} Classification with Deep Convolutional Neural
+  Networks} {{ImageNet} classification with deep convolutional neural
+  networks}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {{Advances in Neural Information Processing Systems 25
+  (NIPS 2012)}.} {{Advances in Neural Information Processing Systems 25 (NIPS
+  2012)}.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Krogh%
+\ \BBA {} Hertz%
+}{%
+Krogh%
+\ \BBA {} Hertz%
+}{%
+{\protect \APACyear {1992}}%
+}]{%
+Krogh:1992aa}
+\APACinsertmetastar {%
+Krogh:1992aa}%
+\begin{APACrefauthors}%
+Krogh, A.%
+\BCBT {}\ \BBA {} Hertz, J\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1992}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A simple weight decay can improve generalization} {A
+  simple weight decay can improve generalization}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Advances in Neural Information Processing Systems 4
+  (NIPS 1991)} {Advances in neural information processing systems 4 (nips
+  1991)}\ (\BPGS\ 950--957).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kuka{\v c}ka%
+, Golkov%
+\BCBL {}\ \BBA {} Cremers%
+}{%
+Kuka{\v c}ka%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+Kukacka:2017aa}
+\APACinsertmetastar {%
+Kukacka:2017aa}%
+\begin{APACrefauthors}%
+Kuka{\v c}ka, J.%
+, Golkov, V.%
+\BCBL {}\ \BBA {} Cremers, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Regularization for Deep Learning: {A} Taxonomy}
+  {Regularization for deep learning: {A} taxonomy}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv}{1710.10686}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kurakin%
+, Goodfellow%
+\BCBL {}\ \BBA {} Bengio%
+}{%
+Kurakin%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+Kurakin:2017aa}
+\APACinsertmetastar {%
+Kurakin:2017aa}%
+\begin{APACrefauthors}%
+Kurakin, A.%
+, Goodfellow, I.%
+\BCBL {}\ \BBA {} Bengio, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Adversarial examples in the physical world} {Adversarial
+  examples in the physical world}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv}{1607.02533v4}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lang%
+\ \BBA {} Hinton%
+}{%
+Lang%
+\ \BBA {} Hinton%
+}{%
+{\protect \APACyear {1990}}%
+}]{%
+Lang:1990aa}
+\APACinsertmetastar {%
+Lang:1990aa}%
+\begin{APACrefauthors}%
+Lang, K\BPBI J.%
+\BCBT {}\ \BBA {} Hinton, G\BPBI E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1990}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Dimensionality reduction and prior knowledge in {E}-set
+  recognition} {Dimensionality reduction and prior knowledge in {E}-set
+  recognition}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Advances in Neural Information Processing Systems 2
+  (NIPS 1989)} {Advances in neural information processing systems 2 (nips
+  1989)}\ (\BPGS\ 178--185).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Laurent%
+\ \BBA {} von Brecht%
+}{%
+Laurent%
+\ \BBA {} von Brecht%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+Laurent:2017aa}
+\APACinsertmetastar {%
+Laurent:2017aa}%
+\begin{APACrefauthors}%
+Laurent, T.%
+\BCBT {}\ \BBA {} von Brecht, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Deep linear neural networks with arbitrary loss: All
+  local minima are global} {Deep linear neural networks with arbitrary loss:
+  All local minima are global}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv}{1712.01473}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+LeCun%
+\ \protect \BOthers {.}}{%
+LeCun%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1989}}%
+}]{%
+LeCun:1989aa}
+\APACinsertmetastar {%
+LeCun:1989aa}%
+\begin{APACrefauthors}%
+LeCun, Y.%
+, Boser, B.%
+, Denker, J\BPBI S.%
+, Henderson, D.%
+, Howard, R\BPBI E.%
+, Hubbard, W.%
+\BCBL {}\ \BBA {} Jackel, L\BPBI D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1989}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Backpropagation applied to handwritten zip code
+  recognition} {Backpropagation applied to handwritten zip code
+  recognition}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Neural Computation}{1}{4}{541--551}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+LeCun%
+, Bottou%
+, Bengio%
+\BCBL {}\ \BBA {} Haffner%
+}{%
+LeCun%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1998}}%
+}]{%
+Lecun:1998aa}
+\APACinsertmetastar {%
+Lecun:1998aa}%
+\begin{APACrefauthors}%
+LeCun, Y.%
+, Bottou, L.%
+, Bengio, Y.%
+\BCBL {}\ \BBA {} Haffner, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1998}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Gradient-based learning applied to document recognition}
+  {Gradient-based learning applied to document recognition}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Proceedings of the IEEE}{86}{11}{2278--2324}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lee%
+, Simchowitz%
+, Jordan%
+\BCBL {}\ \BBA {} Recht%
+}{%
+Lee%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+Lee:2016aa}
+\APACinsertmetastar {%
+Lee:2016aa}%
+\begin{APACrefauthors}%
+Lee, J\BPBI D.%
+, Simchowitz, M.%
+, Jordan, M\BPBI I.%
+\BCBL {}\ \BBA {} Recht, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Gradient Descent Only Converges to Minimizers} {Gradient
+  descent only converges to minimizers}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Proceedings of Machine Learning
+  Research}{49}{}{1246--1257}.
+\newblock
+\APACrefnote{29th Annual Conference on Learning Theory}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Luan%
+, Paris%
+, Shechtman%
+\BCBL {}\ \BBA {} Bala%
+}{%
+Luan%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+Luan:2017aa}
+\APACinsertmetastar {%
+Luan:2017aa}%
+\begin{APACrefauthors}%
+Luan, F.%
+, Paris, S.%
+, Shechtman, E.%
+\BCBL {}\ \BBA {} Bala, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Deep Photo Style Transfer} {Deep photo style
+  transfer}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv}{1703.07511v3}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mallat%
+}{%
+Mallat%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+Mallat:2012aa}
+\APACinsertmetastar {%
+Mallat:2012aa}%
+\begin{APACrefauthors}%
+Mallat, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Group Invariant Scattering} {Group invariant
+  scattering}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Communications on Pure and Applied
+  Mathematics}{65}{10}{1331--1398}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mallat%
+}{%
+Mallat%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+Mallat:2016aa}
+\APACinsertmetastar {%
+Mallat:2016aa}%
+\begin{APACrefauthors}%
+Mallat, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Understanding deep convolutional networks}
+  {Understanding deep convolutional networks}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Phil. Trans. R. Soc. A}{374}{}{20150203}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Minsky%
+\ \BBA {} Papert%
+}{%
+Minsky%
+\ \BBA {} Papert%
+}{%
+{\protect \APACyear {1969}}%
+}]{%
+Minsky:1969aa}
+\APACinsertmetastar {%
+Minsky:1969aa}%
+\begin{APACrefauthors}%
+Minsky, M.%
+\BCBT {}\ \BBA {} Papert, S\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1969}.
+\newblock
+\APACrefbtitle {Perceptrons: {A}n Introduction to Computational Geometry}
+  {Perceptrons: {A}n introduction to computational geometry}.
+\newblock
+\APACaddressPublisher{}{MIT Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mnih%
+\ \protect \BOthers {.}}{%
+Mnih%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+Mnih:2015aa}
+\APACinsertmetastar {%
+Mnih:2015aa}%
+\begin{APACrefauthors}%
+Mnih, V.%
+, Kavukcuoglu, K.%
+, Silver, D.%
+, Rusu, A\BPBI A.%
+, Veness, J.%
+, Bellemare, M\BPBI G.%
+\BDBL {}Hassabis, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Human-level control through deep reinforcement learning}
+  {Human-level control through deep reinforcement learning}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Nature}{518}{}{529--533}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mohri%
+, Rostamizadeh%
+\BCBL {}\ \BBA {} Talwalkar%
+}{%
+Mohri%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2012}}%
+}]{%
+Mohri:2012aa}
+\APACinsertmetastar {%
+Mohri:2012aa}%
+\begin{APACrefauthors}%
+Mohri, M.%
+, Rostamizadeh, A.%
+\BCBL {}\ \BBA {} Talwalkar, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2012}.
+\newblock
+\APACrefbtitle {Foundations of machine learning} {Foundations of machine
+  learning}.
+\newblock
+\APACaddressPublisher{}{MIT press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Morav{\v c}{\'\i}k%
+\ \protect \BOthers {.}}{%
+Morav{\v c}{\'\i}k%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+Moravcik:2017aa}
+\APACinsertmetastar {%
+Moravcik:2017aa}%
+\begin{APACrefauthors}%
+Morav{\v c}{\'\i}k, M.%
+, Schmid, M.%
+, Burch, N.%
+, Lis{\'y}, V.%
+, Morrill, D.%
+, Bard, N.%
+\BDBL {}Bowling, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{DeepStack}: Expert-level artificial intelligence in
+  heads-up no-limit poker} {{DeepStack}: Expert-level artificial intelligence
+  in heads-up no-limit poker}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Science}{356}{6337}{508--513}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Nair%
+\ \BBA {} Hinton%
+}{%
+Nair%
+\ \BBA {} Hinton%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+Nair:2010aa}
+\APACinsertmetastar {%
+Nair:2010aa}%
+\begin{APACrefauthors}%
+Nair, V.%
+\BCBT {}\ \BBA {} Hinton, G\BPBI E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Rectified linear units improve restricted {B}oltzmann
+  machines} {Rectified linear units improve restricted {B}oltzmann
+  machines}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {International Conference on Machine Learning}
+  {International conference on machine learning}\ (\BPGS\ 807--814).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Narang%
+, Undersander%
+\BCBL {}\ \BBA {} Diamos%
+}{%
+Narang%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+Narang:2017aa}
+\APACinsertmetastar {%
+Narang:2017aa}%
+\begin{APACrefauthors}%
+Narang, S.%
+, Undersander, E.%
+\BCBL {}\ \BBA {} Diamos, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Block-Sparse Recurrent Neural Networks} {Block-sparse
+  recurrent neural networks}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv}{1711.02782}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Nesterov%
+}{%
+Nesterov%
+}{%
+{\protect \APACyear {1983}}%
+}]{%
+Nesterov:1983aa}
+\APACinsertmetastar {%
+Nesterov:1983aa}%
+\begin{APACrefauthors}%
+Nesterov, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1983}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A method for unconstrained convex minimization problem
+  with the rate of convergence $o(1/k^2)$} {A method for unconstrained convex
+  minimization problem with the rate of convergence $o(1/k^2)$}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Soviet Mathematics Doklady}{27}{2}{372--376}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Neyshabur%
+, Tomioka%
+\BCBL {}\ \BBA {} Srebro%
+}{%
+Neyshabur%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+Neyshabur:2015aa}
+\APACinsertmetastar {%
+Neyshabur:2015aa}%
+\begin{APACrefauthors}%
+Neyshabur, B.%
+, Tomioka, R.%
+\BCBL {}\ \BBA {} Srebro, N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Norm-based capacity control in neural networks}
+  {Norm-based capacity control in neural networks}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {{Proceedings of The 28th Conference on Learning Theory}}
+  {{Proceedings of The 28th Conference on Learning Theory}}\ (\BPGS\
+  1376--1401).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Panageas%
+\ \BBA {} Piliouras%
+}{%
+Panageas%
+\ \BBA {} Piliouras%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+Panageas:2016aa}
+\APACinsertmetastar {%
+Panageas:2016aa}%
+\begin{APACrefauthors}%
+Panageas, I.%
+\BCBT {}\ \BBA {} Piliouras, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Gradient Descent Only Converges to Minimizers:
+  Non-Isolated Critical Points and Invariant Regions} {Gradient descent only
+  converges to minimizers: Non-isolated critical points and invariant
+  regions}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv}{1605.0040v2}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Papernot%
+\ \protect \BOthers {.}}{%
+Papernot%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+Papernot:2017aa}
+\APACinsertmetastar {%
+Papernot:2017aa}%
+\begin{APACrefauthors}%
+Papernot, N.%
+, McDaniel, P.%
+, Goodfellow, I.%
+, Jha, S.%
+, Celik, B\BPBI Z.%
+\BCBL {}\ \BBA {} Swami, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Practical Black-Box Attacks against Machine Learning}
+  {Practical black-box attacks against machine learning}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv}{1602.02697v4}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Pereyra%
+, Tucker%
+, Chorowski%
+, Kaiser%
+\BCBL {}\ \BBA {} Hinton%
+}{%
+Pereyra%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+Pereyra:2017aa}
+\APACinsertmetastar {%
+Pereyra:2017aa}%
+\begin{APACrefauthors}%
+Pereyra, G.%
+, Tucker, G.%
+, Chorowski, J.%
+, Kaiser, L.%
+\BCBL {}\ \BBA {} Hinton, G\BPBI E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Regularizing Neural Networks by Penalizing Confident
+  Output Distributions} {Regularizing neural networks by penalizing confident
+  output distributions}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv}{1701.06548}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Petersen%
+\ \BBA {} Voigtlaender%
+}{%
+Petersen%
+\ \BBA {} Voigtlaender%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+Petersen:2017aa}
+\APACinsertmetastar {%
+Petersen:2017aa}%
+\begin{APACrefauthors}%
+Petersen, P.%
+\BCBT {}\ \BBA {} Voigtlaender, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Optimal approximation of piecewise smooth functions
+  using deep {ReLU} neural networks} {Optimal approximation of piecewise smooth
+  functions using deep {ReLU} neural networks}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv}{1709.05289}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Pinkus%
+}{%
+Pinkus%
+}{%
+{\protect \APACyear {1999}}%
+}]{%
+Pinkus:1999aa}
+\APACinsertmetastar {%
+Pinkus:1999aa}%
+\begin{APACrefauthors}%
+Pinkus, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1999}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Approximation theory of the {MLP} model in neural
+  networks} {Approximation theory of the {MLP} model in neural
+  networks}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Acta Numerica}{}{}{143--195}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Qian%
+}{%
+Qian%
+}{%
+{\protect \APACyear {1999}}%
+}]{%
+Qian:1999aa}
+\APACinsertmetastar {%
+Qian:1999aa}%
+\begin{APACrefauthors}%
+Qian, N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1999}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {On the momentum term in gradient descent learning
+  algorithms} {On the momentum term in gradient descent learning
+  algorithms}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Neural networks}{12}{1}{145--151}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Rifai%
+, Vincent%
+, Muller%
+, Glorot%
+\BCBL {}\ \BBA {} Bengio%
+}{%
+Rifai%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+Rifai:2011ab}
+\APACinsertmetastar {%
+Rifai:2011ab}%
+\begin{APACrefauthors}%
+Rifai, S.%
+, Vincent, P.%
+, Muller, X.%
+, Glorot, X.%
+\BCBL {}\ \BBA {} Bengio, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Contractive autoencoders: {E}xplicit invariance during
+  feature extraction} {Contractive autoencoders: {E}xplicit invariance during
+  feature extraction}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the International Conference on Machine
+  Learning (ICML 2011)} {Proceedings of the international conference on machine
+  learning (icml 2011)}\ (\BPGS\ 833--840).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Robert%
+}{%
+Robert%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+Robert:2007aa}
+\APACinsertmetastar {%
+Robert:2007aa}%
+\begin{APACrefauthors}%
+Robert, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2007}.
+\newblock
+\APACrefbtitle {The {Bayesian} Choice: From Decision-theoretic Foundations to
+  Computational Implementation} {The {Bayesian} choice: From decision-theoretic
+  foundations to computational implementation}\ (\PrintOrdinal{2nd}\ \BEd).
+\newblock
+\APACaddressPublisher{}{Springer Verlag}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ruder%
+}{%
+Ruder%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+Ruder:2016aa}
+\APACinsertmetastar {%
+Ruder:2016aa}%
+\begin{APACrefauthors}%
+Ruder, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {An overview of gradient descent optimization algorithms}
+  {An overview of gradient descent optimization algorithms}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv}{1609.04747}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Schmidt-Hieber%
+}{%
+Schmidt-Hieber%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+Schmidt-Hieber:2017aa}
+\APACinsertmetastar {%
+Schmidt-Hieber:2017aa}%
+\begin{APACrefauthors}%
+Schmidt-Hieber, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Nonparametric regression using deep neural networks with
+  {ReLU} activation function} {Nonparametric regression using deep neural
+  networks with {ReLU} activation function}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv}{1708.06633v2}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Shalev-Shwartz%
+\ \BBA {} Ben-David%
+}{%
+Shalev-Shwartz%
+\ \BBA {} Ben-David%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+Shalev-Shwartz:2014aa}
+\APACinsertmetastar {%
+Shalev-Shwartz:2014aa}%
+\begin{APACrefauthors}%
+Shalev-Shwartz, S.%
+\BCBT {}\ \BBA {} Ben-David, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2014}.
+\newblock
+\APACrefbtitle {Understanding machine learning: From theory to algorithms}
+  {Understanding machine learning: From theory to algorithms}.
+\newblock
+\APACaddressPublisher{}{Cambridge university press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Shamir%
+\ \BBA {} Zhang%
+}{%
+Shamir%
+\ \BBA {} Zhang%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+Shamir:2013aa}
+\APACinsertmetastar {%
+Shamir:2013aa}%
+\begin{APACrefauthors}%
+Shamir, O.%
+\BCBT {}\ \BBA {} Zhang, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Stochastic Gradient Descent for Non-smooth Optimisation:
+  Convergence Results and Optimal Averaging Schemes} {Stochastic gradient
+  descent for non-smooth optimisation: Convergence results and optimal
+  averaging schemes}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {{ICML'13 Proceedings of the 30th International
+  Conference on Machine Learning}} {{ICML'13 Proceedings of the 30th
+  International Conference on Machine Learning}}\ (\BVOL~28).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Siegelmann%
+\ \BBA {} Sontag%
+}{%
+Siegelmann%
+\ \BBA {} Sontag%
+}{%
+{\protect \APACyear {1992}}%
+}]{%
+Siegelmann:1992aa}
+\APACinsertmetastar {%
+Siegelmann:1992aa}%
+\begin{APACrefauthors}%
+Siegelmann, H\BPBI T.%
+\BCBT {}\ \BBA {} Sontag, E\BPBI D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1992}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {On the computational power of neural nets} {On the
+  computational power of neural nets}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {{COLT '92 Proceedings of the fifth annual workshop on
+  Computational learning theory}} {{COLT '92 Proceedings of the fifth annual
+  workshop on Computational learning theory}}\ (\BPGS\ 440--449).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Silver%
+\ \protect \BOthers {.}}{%
+Silver%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+Silver:2016aa}
+\APACinsertmetastar {%
+Silver:2016aa}%
+\begin{APACrefauthors}%
+Silver, D.%
+, Huang, A.%
+, Maddison, C\BPBI J.%
+, Guez, A.%
+, Sifre, L.%
+, van~den Driessche, G.%
+\BDBL {}Hassabis, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Mastering the game of {Go} with deep neural networks and
+  tree search} {Mastering the game of {Go} with deep neural networks and tree
+  search}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Nature}{529}{7587}{484--489}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+L\BPBI N.~Smith%
+\ \BBA {} Topin%
+}{%
+L\BPBI N.~Smith%
+\ \BBA {} Topin%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+Smith:2017ab}
+\APACinsertmetastar {%
+Smith:2017ab}%
+\begin{APACrefauthors}%
+Smith, L\BPBI N.%
+\BCBT {}\ \BBA {} Topin, N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Super-Convergence: Very Fast Training of Residual
+  Networks Using Large Learning Rates} {Super-convergence: Very fast training
+  of residual networks using large learning rates}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv}{1708.07120}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+S\BPBI L.~Smith%
+, Kindermans%
+\BCBL {}\ \BBA {} Le%
+}{%
+S\BPBI L.~Smith%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+Smith:2017aa}
+\APACinsertmetastar {%
+Smith:2017aa}%
+\begin{APACrefauthors}%
+Smith, S\BPBI L.%
+, Kindermans, P\BHBI J.%
+\BCBL {}\ \BBA {} Le, Q\BPBI V.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Don't Decay the Learning Rate, Increase the Batch Size}
+  {Don't decay the learning rate, increase the batch size}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv}{1711.00489}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Srivastava%
+, Hinton%
+, Krizhevsky%
+, Sutskever%
+\BCBL {}\ \BBA {} Salakhutdinov%
+}{%
+Srivastava%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+Srivastava:2014aa}
+\APACinsertmetastar {%
+Srivastava:2014aa}%
+\begin{APACrefauthors}%
+Srivastava, N.%
+, Hinton, G\BPBI E.%
+, Krizhevsky, A.%
+, Sutskever, I.%
+\BCBL {}\ \BBA {} Salakhutdinov, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Dropout: {A} simple way to prevent neural networks from
+  overfitting} {Dropout: {A} simple way to prevent neural networks from
+  overfitting}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The Journal of Machine Learning
+  Research}{15}{1}{1929--1958}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Su%
+, Vargas%
+\BCBL {}\ \BBA {} Kouichi%
+}{%
+Su%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+Su:2018aa}
+\APACinsertmetastar {%
+Su:2018aa}%
+\begin{APACrefauthors}%
+Su, J.%
+, Vargas, D\BPBI V.%
+\BCBL {}\ \BBA {} Kouichi, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {One pixel attack for fooling deep neural networks} {One
+  pixel attack for fooling deep neural networks}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv}{1710.08864v4}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sun%
+, Chen%
+, Wang%
+, Liu%
+\BCBL {}\ \BBA {} Liu%
+}{%
+Sun%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+Sun:2016aa}
+\APACinsertmetastar {%
+Sun:2016aa}%
+\begin{APACrefauthors}%
+Sun, S.%
+, Chen, W.%
+, Wang, L.%
+, Liu, X.%
+\BCBL {}\ \BBA {} Liu, T\BHBI Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {On the depth of deep neural networks: a theoretical
+  view} {On the depth of deep neural networks: a theoretical view}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {{Proceedings of the Thirtieth AAAI Conference on
+  Artifiial Intelligence}} {{Proceedings of the Thirtieth AAAI Conference on
+  Artifiial Intelligence}}\ (\BPGS\ 2066--2072).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Trouv{\'e}%
+\ \BBA {} Younes%
+}{%
+Trouv{\'e}%
+\ \BBA {} Younes%
+}{%
+{\protect \APACyear {2005}}%
+}]{%
+Trouve:2005aa}
+\APACinsertmetastar {%
+Trouve:2005aa}%
+\begin{APACrefauthors}%
+Trouv{\'e}, A.%
+\BCBT {}\ \BBA {} Younes, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Local Geometry of Deformable Templates} {Local geometry
+  of deformable templates}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{SIAM Journal of Mathematical Analysis}{37}{1}{17--59}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wager%
+, Wang%
+\BCBL {}\ \BBA {} Liang%
+}{%
+Wager%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+Wager:2013aa}
+\APACinsertmetastar {%
+Wager:2013aa}%
+\begin{APACrefauthors}%
+Wager, S.%
+, Wang, S.%
+\BCBL {}\ \BBA {} Liang, P\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Dropout Training as Adaptive Regularization} {Dropout
+  training as adaptive regularization}.{\BBCQ}
+\newblock
+\BIn{} C\BPBI J\BPBI C.~Burges, L.~Bottou, M.~Welling, Z.~Ghahramani\BCBL {}\
+  \BBA {} K\BPBI Q.~Weinberger\ (\BEDS), \APACrefbtitle {Advances in Neural
+  Information Processing Systems 26} {Advances in neural information processing
+  systems 26}\ (\BPGS\ 351--359).
+\newblock
+\APACaddressPublisher{}{Curran Associates, Inc.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Werbos%
+}{%
+Werbos%
+}{%
+{\protect \APACyear {1974}}%
+}]{%
+Werbos:1974aa}
+\APACinsertmetastar {%
+Werbos:1974aa}%
+\begin{APACrefauthors}%
+Werbos, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1974}.
+\unskip\
+\newblock
+\APACrefbtitle {Beyond Regression: New Tools for Prediction and Analysis in the
+  Behavioral Sciences} {Beyond regression: New tools for prediction and
+  analysis in the behavioral sciences}\ \APACtypeAddressSchool {PhD
+  thesis}{}{}.
+\unskip\
+\newblock
+\APACaddressSchool {}{Harvard University}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wu%
+\ \protect \BOthers {.}}{%
+Wu%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+Wu:2016aa}
+\APACinsertmetastar {%
+Wu:2016aa}%
+\begin{APACrefauthors}%
+Wu, Y.%
+, Schuster, M.%
+, Chen, Z.%
+, V.~Le, Q.%
+, Norouzi, M.%
+, Macherey, W.%
+\BDBL {}Dean, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Google's Neural Machine Translation System: {Bridging}
+  the Gap between Human and Machine Translation} {Google's neural machine
+  translation system: {Bridging} the gap between human and machine
+  translation}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv}{1609.08144v2}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Xie%
+, Deng%
+\BCBL {}\ \BBA {} Xing%
+}{%
+Xie%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+Xie:2015aa}
+\APACinsertmetastar {%
+Xie:2015aa}%
+\begin{APACrefauthors}%
+Xie, P.%
+, Deng, Y.%
+\BCBL {}\ \BBA {} Xing, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {On the generalization error bounds of neural networks
+  under diversity-inducing mutual angular regularization} {On the
+  generalization error bounds of neural networks under diversity-inducing
+  mutual angular regularization}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv}{1511.07110}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Xu%
+\ \BBA {} Mannor%
+}{%
+Xu%
+\ \BBA {} Mannor%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+Xu:2012aa}
+\APACinsertmetastar {%
+Xu:2012aa}%
+\begin{APACrefauthors}%
+Xu, H.%
+\BCBT {}\ \BBA {} Mannor, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Robustness and generalization} {Robustness and
+  generalization}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Machine learning}{86}{3}{391--423}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Yarotsky%
+}{%
+Yarotsky%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+Yarotsky:2017aa}
+\APACinsertmetastar {%
+Yarotsky:2017aa}%
+\begin{APACrefauthors}%
+Yarotsky, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Error bounds for approximation with deep {ReLU}
+  networks} {Error bounds for approximation with deep {ReLU} networks}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Neural Networks}{94}{}{103--114}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Zeiler%
+}{%
+Zeiler%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+Zeiler:2012aa}
+\APACinsertmetastar {%
+Zeiler:2012aa}%
+\begin{APACrefauthors}%
+Zeiler, M\BPBI D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{ADADELTA:} An Adaptive Learning Rate Method}
+  {{ADADELTA:} an adaptive learning rate method}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv}{1212.5701}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Zeiler%
+\ \BBA {} Fergus%
+}{%
+Zeiler%
+\ \BBA {} Fergus%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+Zeiler:2013aa}
+\APACinsertmetastar {%
+Zeiler:2013aa}%
+\begin{APACrefauthors}%
+Zeiler, M\BPBI D.%
+\BCBT {}\ \BBA {} Fergus, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Stochastic pooling for regularization of deep
+  convolutional neural networks} {Stochastic pooling for regularization of deep
+  convolutional neural networks}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {{1st International Conference on Learning
+  Representations (ICLR 2013)}.} {{1st International Conference on Learning
+  Representations (ICLR 2013)}.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+C.~Zhang%
+, Bengio%
+, Hardt%
+, Recht%
+\BCBL {}\ \BBA {} Vinyals%
+}{%
+C.~Zhang%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+Zhang:2017aa}
+\APACinsertmetastar {%
+Zhang:2017aa}%
+\begin{APACrefauthors}%
+Zhang, C.%
+, Bengio, S.%
+, Hardt, M.%
+, Recht, B.%
+\BCBL {}\ \BBA {} Vinyals, O.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Understanding deep learning requires rethinking
+  generalization} {Understanding deep learning requires rethinking
+  generalization}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {{5th International Conference on Learning
+  Representations (ICLR 2017)}.} {{5th International Conference on Learning
+  Representations (ICLR 2017)}.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+J.~Zhang%
+, Mitliagkas%
+\BCBL {}\ \BBA {} R{\'e}%
+}{%
+J.~Zhang%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+Zhang:2017ab}
+\APACinsertmetastar {%
+Zhang:2017ab}%
+\begin{APACrefauthors}%
+Zhang, J.%
+, Mitliagkas, I.%
+\BCBL {}\ \BBA {} R{\'e}, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{YellowFin} and the Art of Momentum Tuning} {{YellowFin}
+  and the art of momentum tuning}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv}{1706.03471}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Zhu%
+\ \protect \BOthers {.}}{%
+Zhu%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+Zhu:2017aa}
+\APACinsertmetastar {%
+Zhu:2017aa}%
+\begin{APACrefauthors}%
+Zhu, W.%
+, Qiu, Q.%
+, Huang, J.%
+, Calderbank, R.%
+, Sapiro, G.%
+\BCBL {}\ \BBA {} Daubechies, I.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{LDMNet:} {L}ow Dimensional Manifold Regularized Neural
+  Networks} {{LDMNet:} {L}ow dimensional manifold regularized neural
+  networks}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv}{1711.06246}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

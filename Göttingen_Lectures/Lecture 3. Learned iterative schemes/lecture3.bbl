@@ -1,0 +1,1357 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Adler%
+\ \BBA {} {\"O}ktem%
+}{%
+Adler%
+\ \BBA {} {\"O}ktem%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+Adler:2017aa}
+\APACinsertmetastar {%
+Adler:2017aa}%
+\begin{APACrefauthors}%
+Adler, J.%
+\BCBT {}\ \BBA {} {\"O}ktem, O.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Solving ill-posed inverse problems using iterative deep
+  neural networks} {Solving ill-posed inverse problems using iterative deep
+  neural networks}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Inverse Problems}{33}{12}{124007 (24pp)}.
+\newblock
+\APACrefnote{Special issue: 100 Years of the Radon transform}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Adler%
+\ \BBA {} {\"O}ktem%
+}{%
+Adler%
+\ \BBA {} {\"O}ktem%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+Adler:2018aa}
+\APACinsertmetastar {%
+Adler:2018aa}%
+\begin{APACrefauthors}%
+Adler, J.%
+\BCBT {}\ \BBA {} {\"O}ktem, O.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Learned Primal-dual Reconstruction} {Learned primal-dual
+  reconstruction}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{IEEE Transactions on Medical
+  Imaging}{37}{6}{1322--1332}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Adler%
+, Ringh%
+, {\"O}ktem%
+\BCBL {}\ \BBA {} Karlsson%
+}{%
+Adler%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+Adler:2017ab}
+\APACinsertmetastar {%
+Adler:2017ab}%
+\begin{APACrefauthors}%
+Adler, J.%
+, Ringh, A.%
+, {\"O}ktem, O.%
+\BCBL {}\ \BBA {} Karlsson, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Learning to solve inverse problems using {Wasserstein}
+  loss} {Learning to solve inverse problems using {Wasserstein} loss}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{ArXiv}{1710.10898}{}{}.
+\newblock
+\APACrefnote{Poster in NIPS 2017}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Agapiou%
+, Larsson%
+\BCBL {}\ \BBA {} Stuart%
+}{%
+Agapiou%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+Agapiou:2013aa}
+\APACinsertmetastar {%
+Agapiou:2013aa}%
+\begin{APACrefauthors}%
+Agapiou, S.%
+, Larsson, S.%
+\BCBL {}\ \BBA {} Stuart, A\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Posterior Contraction Rates for the {Bayesian} Approach
+  to Linear Ill-posed Inverse Problems} {Posterior contraction rates for the
+  {Bayesian} approach to linear ill-posed inverse problems}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Stochastic Processes and their
+  Applications}{123}{}{3828--3860}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Argyrou%
+, Maintas%
+, Tsoumpas%
+\BCBL {}\ \BBA {} Stiliaris%
+}{%
+Argyrou%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2012}}%
+}]{%
+Argyrou:2012aa}
+\APACinsertmetastar {%
+Argyrou:2012aa}%
+\begin{APACrefauthors}%
+Argyrou, M.%
+, Maintas, D.%
+, Tsoumpas, C.%
+\BCBL {}\ \BBA {} Stiliaris, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Tomographic Image Reconstruction based on Artificial
+  Neural Network {(ANN)} techniques} {Tomographic image reconstruction based on
+  artificial neural network {(ANN)} techniques}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Nuclear Science Symposium and Medical Imaging Conference
+  (NSS/MIC), 2012 IEEE.} {Nuclear science symposium and medical imaging
+  conference (nss/mic), 2012 ieee.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Burger%
+, Dirks%
+\BCBL {}\ \BBA {} Frerking%
+}{%
+Burger%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+Burger:2017aa}
+\APACinsertmetastar {%
+Burger:2017aa}%
+\begin{APACrefauthors}%
+Burger, M.%
+, Dirks, H.%
+\BCBL {}\ \BBA {} Frerking, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {On optical flow models for variational motion
+  estimation} {On optical flow models for variational motion
+  estimation}.{\BBCQ}
+\newblock
+\BIn{} M.~Bergounioux, G.~Peyr{\'e}, C.~Schn{\"o}rr, J\BHBI P.~Caillau\BCBL {}\
+  \BBA {} T.~Haberkorn\ (\BEDS), \APACrefbtitle {Variational Methods In Imaging
+  and Geometric Control} {Variational methods in imaging and geometric
+  control}\ (\BVOL~18, \BPGS\ 225--251).
+\newblock
+\APACaddressPublisher{}{Walter de Gruyter}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Burger%
+\ \BBA {} Osher%
+}{%
+Burger%
+\ \BBA {} Osher%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+Burger:2013aa}
+\APACinsertmetastar {%
+Burger:2013aa}%
+\begin{APACrefauthors}%
+Burger, M.%
+\BCBT {}\ \BBA {} Osher, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A Guide to the TV Zoo} {A guide to the tv zoo}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Level Set and PDE Based Reconstruction Methods in
+  Imaging} {Level set and pde based reconstruction methods in imaging}\ (\BPGS\
+  1--70).
+\newblock
+\APACaddressPublisher{}{Springer Verlag}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Chen%
+\ \BBA {} {\"O}ktem%
+}{%
+Chen%
+\ \BBA {} {\"O}ktem%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+Chen:2018aa}
+\APACinsertmetastar {%
+Chen:2018aa}%
+\begin{APACrefauthors}%
+Chen, C.%
+\BCBT {}\ \BBA {} {\"O}ktem, O.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Indirect Image Registration with Large Diffeomorphic
+  Deformations} {Indirect image registration with large diffeomorphic
+  deformations}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{SIAM Journal on Imaging}{11}{1}{575--617}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Dashti%
+\ \BBA {} Stuart%
+}{%
+Dashti%
+\ \BBA {} Stuart%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+Dashti:2016aa}
+\APACinsertmetastar {%
+Dashti:2016aa}%
+\begin{APACrefauthors}%
+Dashti, M.%
+\BCBT {}\ \BBA {} Stuart, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The {Bayesian} Approach to Inverse Problems} {The
+  {Bayesian} approach to inverse problems}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Handbook of Uncertainty Quantification.} {Handbook of
+  uncertainty quantification.}
+\newblock
+\APACaddressPublisher{New York}{Springer Verlag}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Evans%
+\ \BBA {} Stark%
+}{%
+Evans%
+\ \BBA {} Stark%
+}{%
+{\protect \APACyear {2002}}%
+}]{%
+Evans:2002aa}
+\APACinsertmetastar {%
+Evans:2002aa}%
+\begin{APACrefauthors}%
+Evans, S\BPBI N.%
+\BCBT {}\ \BBA {} Stark, P\BPBI B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2002}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Inverse problems as statistics} {Inverse problems as
+  statistics}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Inverse Problems}{18}{4}{R1--R55}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Foucart%
+\ \BBA {} Rauhut%
+}{%
+Foucart%
+\ \BBA {} Rauhut%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+Foucart:2013aa}
+\APACinsertmetastar {%
+Foucart:2013aa}%
+\begin{APACrefauthors}%
+Foucart, S.%
+\BCBT {}\ \BBA {} Rauhut, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2013}.
+\newblock
+\APACrefbtitle {Mathematical Introduction to Compressive Sensing} {Mathematical
+  introduction to compressive sensing}.
+\newblock
+\APACaddressPublisher{}{Springer Verlag}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ghosal%
+\ \BBA {} van~der Vaart%
+}{%
+Ghosal%
+\ \BBA {} van~der Vaart%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+Ghosal:2017aa}
+\APACinsertmetastar {%
+Ghosal:2017aa}%
+\begin{APACrefauthors}%
+Ghosal, S.%
+\BCBT {}\ \BBA {} van~der Vaart, A\BPBI W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2017}.
+\newblock
+\APACrefbtitle {Fundamentals of Nonparametric {Bayesian} Inference}
+  {Fundamentals of nonparametric {Bayesian} inference}.
+\newblock
+\APACaddressPublisher{New York}{Cambridge University Press.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gillies%
+, Kinahan%
+\BCBL {}\ \BBA {} Hricak%
+}{%
+Gillies%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+Gillies:2016aa}
+\APACinsertmetastar {%
+Gillies:2016aa}%
+\begin{APACrefauthors}%
+Gillies, R\BPBI J.%
+, Kinahan, P\BPBI E.%
+\BCBL {}\ \BBA {} Hricak, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Radiomics: Images Are More than Pictures, They Are Data}
+  {Radiomics: Images are more than pictures, they are data}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Radiology}{278}{2}{563--577}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Giryes%
+, Eldar%
+, Bronstein%
+\BCBL {}\ \BBA {} Sapiro%
+}{%
+Giryes%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+Giryes:2017aa}
+\APACinsertmetastar {%
+Giryes:2017aa}%
+\begin{APACrefauthors}%
+Giryes, R.%
+, Eldar, Y\BPBI C.%
+, Bronstein, A\BPBI M.%
+\BCBL {}\ \BBA {} Sapiro, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Tradeoffs between Convergence Speed and Reconstruction
+  Accuracy in Inverse Problems} {Tradeoffs between convergence speed and
+  reconstruction accuracy in inverse problems}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{ArXiv}{1605.09232v2}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gregor%
+\ \BBA {} LeCun%
+}{%
+Gregor%
+\ \BBA {} LeCun%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+Gregor:2010aa}
+\APACinsertmetastar {%
+Gregor:2010aa}%
+\begin{APACrefauthors}%
+Gregor, K.%
+\BCBT {}\ \BBA {} LeCun, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Learning Fast Approximations of Sparse Coding} {Learning
+  fast approximations of sparse coding}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {ICML 2010: The 27th International Conference on Machine
+  Learning.} {Icml 2010: The 27th international conference on machine
+  learning.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hammernik%
+\ \protect \BOthers {.}}{%
+Hammernik%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+Hammernik:2018aa}
+\APACinsertmetastar {%
+Hammernik:2018aa}%
+\begin{APACrefauthors}%
+Hammernik, K.%
+, Klatzer, E., T. ans~Kobler%
+, Recht, M\BPBI P.%
+, Sodickson, D\BPBI K.%
+, Pock, T.%
+\BCBL {}\ \BBA {} Knoll, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Learning a Variational Network for Reconstruction of
+  Accelerated {MRI} Data} {Learning a variational network for reconstruction of
+  accelerated {MRI} data}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Magnetic Resonance in Medicine}{79}{6}{3055--3071}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hohm%
+, Storath%
+\BCBL {}\ \BBA {} Weinmann%
+}{%
+Hohm%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+Hohm:2015aa}
+\APACinsertmetastar {%
+Hohm:2015aa}%
+\begin{APACrefauthors}%
+Hohm, K.%
+, Storath, M.%
+\BCBL {}\ \BBA {} Weinmann, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {An algorithmic framework for {M}umford-{S}hah
+  regularization of inverse problems in imaging} {An algorithmic framework for
+  {M}umford-{S}hah regularization of inverse problems in imaging}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Inverse Problems}{31}{11}{115011 (30pp)}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Jin%
+, McCann%
+, Froustey%
+\BCBL {}\ \BBA {} Unser%
+}{%
+Jin%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+Jin:2017aa}
+\APACinsertmetastar {%
+Jin:2017aa}%
+\begin{APACrefauthors}%
+Jin, K\BPBI H.%
+, McCann, M\BPBI T.%
+, Froustey, E.%
+\BCBL {}\ \BBA {} Unser, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Deep Convolutional Neural Network for Inverse Problems
+  in Imaging} {Deep convolutional neural network for inverse problems in
+  imaging}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{IEEE Transactions on Image
+  Processing}{26}{9}{4509--4522}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kang%
+, Min%
+\BCBL {}\ \BBA {} Ye%
+}{%
+Kang%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+Kang:2017ab}
+\APACinsertmetastar {%
+Kang:2017ab}%
+\begin{APACrefauthors}%
+Kang, E.%
+, Min, J.%
+\BCBL {}\ \BBA {} Ye, J\BPBI C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017{\protect \BCnt {1}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A deep convolutional neural network using directional
+  wavelets for low-dose {X-ray CT} reconstruction} {A deep convolutional neural
+  network using directional wavelets for low-dose {X-ray CT}
+  reconstruction}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Medical Physics}{44}{10}{360--375}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kang%
+, Min%
+\BCBL {}\ \BBA {} Ye%
+}{%
+Kang%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+Kang:2017aa}
+\APACinsertmetastar {%
+Kang:2017aa}%
+\begin{APACrefauthors}%
+Kang, E.%
+, Min, J.%
+\BCBL {}\ \BBA {} Ye, J\BPBI C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017{\protect \BCnt {2}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{WaveNet: a deep convolutional neural network using
+  directional wavelets for low-dose X-ray CT reconstruction}} {{WaveNet: a deep
+  convolutional neural network using directional wavelets for low-dose X-ray CT
+  reconstruction}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Medical physics}{44 10}{}{e360-e375}.
+\newblock
+\begin{APACrefDOI} \doi{10.1002/mp.12344} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Karlsson%
+\ \BBA {} Ringh%
+}{%
+Karlsson%
+\ \BBA {} Ringh%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+Karlsson:2017aa}
+\APACinsertmetastar {%
+Karlsson:2017aa}%
+\begin{APACrefauthors}%
+Karlsson, J.%
+\BCBT {}\ \BBA {} Ringh, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Generalized Sinkhorn iterations for regularizing inverse
+  problems using optimal mass transport} {Generalized sinkhorn iterations for
+  regularizing inverse problems using optimal mass transport}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{SIAM Journal on Imaging Sciences}{10}{4}{1935--1962}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kekkonen%
+, Lassas%
+\BCBL {}\ \BBA {} Siltanen%
+}{%
+Kekkonen%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+Kekkonen:2016aa}
+\APACinsertmetastar {%
+Kekkonen:2016aa}%
+\begin{APACrefauthors}%
+Kekkonen, H.%
+, Lassas, M.%
+\BCBL {}\ \BBA {} Siltanen, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Posterior Consistency and Convergence Rates for
+  {Bayesian} Inversion with Hypoelliptic Operators} {Posterior consistency and
+  convergence rates for {Bayesian} inversion with hypoelliptic
+  operators}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Inverse Problems}{32}{}{085005}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Knapik%
+, van~der Vaart%
+\BCBL {}\ \BBA {} van Zanten%
+}{%
+Knapik%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+Knapik:2011aa}
+\APACinsertmetastar {%
+Knapik:2011aa}%
+\begin{APACrefauthors}%
+Knapik, B.%
+, van~der Vaart, A\BPBI W.%
+\BCBL {}\ \BBA {} van Zanten, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Bayesian Inverse Problems with {Gaussian} Priors}
+  {Bayesian inverse problems with {Gaussian} priors}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Annals of Statistics}{39}{}{2626--2657}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Krishnan%
+\ \BBA {} Quinto%
+}{%
+Krishnan%
+\ \BBA {} Quinto%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+Krishnan:2015aa}
+\APACinsertmetastar {%
+Krishnan:2015aa}%
+\begin{APACrefauthors}%
+Krishnan, V\BPBI P.%
+\BCBT {}\ \BBA {} Quinto, E\BPBI T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Microlocal Analysis in Tomography} {Microlocal analysis
+  in tomography}.{\BBCQ}
+\newblock
+\BIn{} O.~Scherzer\ (\BED), \APACrefbtitle {Handbook of Mathematical Methods in
+  Imaging} {Handbook of mathematical methods in imaging}\ (\PrintOrdinal{2nd}\
+  \BEd, \BPGS\ 847--902).
+\newblock
+\APACaddressPublisher{}{Springer-Verlag}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kutyniok%
+\ \BBA {} Labate%
+}{%
+Kutyniok%
+\ \BBA {} Labate%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+Kutyniok:2012aa}
+\APACinsertmetastar {%
+Kutyniok:2012aa}%
+\begin{APACrefauthors}%
+Kutyniok, G.%
+\BCBT {}\ \BBA {} Labate, D.%
+\end{APACrefauthors}%
+\ (\BEDS).
+\unskip\
+\newblock
+\APACrefYear{2012}.
+\newblock
+\APACrefbtitle {Shearlets: Multiscale Analysis for Multivariate Data}
+  {Shearlets: Multiscale analysis for multivariate data}.
+\newblock
+\APACaddressPublisher{}{Springer Verlag}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Liese%
+\ \BBA {} Miescke%
+}{%
+Liese%
+\ \BBA {} Miescke%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+Liese:2008aa}
+\APACinsertmetastar {%
+Liese:2008aa}%
+\begin{APACrefauthors}%
+Liese, F.%
+\BCBT {}\ \BBA {} Miescke, K\BHBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2008}.
+\newblock
+\APACrefbtitle {Statistical Decision Theory: Estimation, Testing, and
+  Selection} {Statistical decision theory: Estimation, testing, and selection}.
+\newblock
+\APACaddressPublisher{New York}{Springer Verlag}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Louis%
+}{%
+Louis%
+}{%
+{\protect \APACyear {2011}}%
+}]{%
+Louis:2011aa}
+\APACinsertmetastar {%
+Louis:2011aa}%
+\begin{APACrefauthors}%
+Louis, A\BPBI K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Feature Reconstruction in Inverse Problems} {Feature
+  reconstruction in inverse problems}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Inverse Problems}{27}{}{065010 (21pp)}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mohammad-Djafari%
+}{%
+Mohammad-Djafari%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+Mohammad-Djafari:2009aa}
+\APACinsertmetastar {%
+Mohammad-Djafari:2009aa}%
+\begin{APACrefauthors}%
+Mohammad-Djafari, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{G}auss-{M}arkov-{P}otts priors for images in computer
+  tomography resulting to joint optimal reconstruction and segmentation}
+  {{G}auss-{M}arkov-{P}otts priors for images in computer tomography resulting
+  to joint optimal reconstruction and segmentation}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{International Journal of Tomography and
+  Statistics}{11}{9}{76---92}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Monard%
+, Nickl%
+\BCBL {}\ \BBA {} Paternain%
+}{%
+Monard%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+Monard:2017aa}
+\APACinsertmetastar {%
+Monard:2017aa}%
+\begin{APACrefauthors}%
+Monard, F.%
+, Nickl, R.%
+\BCBL {}\ \BBA {} Paternain, G\BPBI P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Efficient Nonparametric {Bayesian} Inference for X-ray
+  Transforms} {Efficient nonparametric {Bayesian} inference for x-ray
+  transforms}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv}{1708.06332}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Natterer%
+}{%
+Natterer%
+}{%
+{\protect \APACyear {2001}}%
+}]{%
+Natterer:2001aa}
+\APACinsertmetastar {%
+Natterer:2001aa}%
+\begin{APACrefauthors}%
+Natterer, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2001}.
+\newblock
+\APACrefbtitle {The Mathematics of Computerized Tomography} {The mathematics of
+  computerized tomography}\ (\BVOL~32).
+\newblock
+\APACaddressPublisher{}{Society for Industrial and Applied Mathematics}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Nickl%
+}{%
+Nickl%
+}{%
+{\protect \APACyear {2017}}%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+Nickl:2017ac}
+\APACinsertmetastar {%
+Nickl:2017ac}%
+\begin{APACrefauthors}%
+Nickl, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017{\protect \BCnt {1}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Bernstein-von Mises} Theorems for Statistical Inverse
+  Problems {I}: {Sch{\"o}dinger} Equation} {{Bernstein-von Mises} theorems for
+  statistical inverse problems {I}: {Sch{\"o}dinger} equation}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv}{1707.01764v2}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Nickl%
+}{%
+Nickl%
+}{%
+{\protect \APACyear {2017}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+Nickl:2017aa}
+\APACinsertmetastar {%
+Nickl:2017aa}%
+\begin{APACrefauthors}%
+Nickl, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017{\protect \BCnt {2}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {On {Bayesian} Inference for Some Statistical Inverse
+  Problems with Partial Differential Equations} {On {Bayesian} inference for
+  some statistical inverse problems with partial differential
+  equations}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Bernoulli News}{24}{2}{5--9}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Nickl%
+\ \BBA {} S{\"o}hl%
+}{%
+Nickl%
+\ \BBA {} S{\"o}hl%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+Nickl:2017ab}
+\APACinsertmetastar {%
+Nickl:2017ab}%
+\begin{APACrefauthors}%
+Nickl, R.%
+\BCBT {}\ \BBA {} S{\"o}hl, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Nonparametric {Bayesian} Posterior Contraction Rates for
+  Discretely Observed Scalar Diffusions} {Nonparametric {Bayesian} posterior
+  contraction rates for discretely observed scalar diffusions}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Annals of Statistics,}{45}{}{1664--1693}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Oymak%
+\ \BBA {} Soltanolkotabi%
+}{%
+Oymak%
+\ \BBA {} Soltanolkotabi%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+Oymak:2017aa}
+\APACinsertmetastar {%
+Oymak:2017aa}%
+\begin{APACrefauthors}%
+Oymak, S.%
+\BCBT {}\ \BBA {} Soltanolkotabi, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Fast and Reliable Parameter Estimation from Nonlinear
+  Observations} {Fast and reliable parameter estimation from nonlinear
+  observations}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{SIAM Journal on Optimization}{27}{4}{2276--2300}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Paschalis%
+\ \protect \BOthers {.}}{%
+Paschalis%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2004}}%
+}]{%
+Paschalis:2004aa}
+\APACinsertmetastar {%
+Paschalis:2004aa}%
+\begin{APACrefauthors}%
+Paschalis, P.%
+, Giokaris, N\BPBI D.%
+, Karabarbounis, A.%
+, Loudos, G\BPBI K.%
+, Maintas, D.%
+, Papanicolas, C\BPBI N.%
+\BDBL {}Stiliaris, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Tomographic image reconstruction using Artificial Neural
+  Networks} {Tomographic image reconstruction using artificial neural
+  networks}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Nuclear Instruments and Methods in Physics Research
+  Section A: Accelerators, Spectrometers, Detectors and Associated
+  Equipment}{527}{1--2}{211--215}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Putzky%
+\ \BBA {} Welling%
+}{%
+Putzky%
+\ \BBA {} Welling%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+Putzky:2017aa}
+\APACinsertmetastar {%
+Putzky:2017aa}%
+\begin{APACrefauthors}%
+Putzky, P.%
+\BCBT {}\ \BBA {} Welling, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+\APACrefbtitle {Recurrent inference machines for solving inverse problems.}
+  {Recurrent inference machines for solving inverse problems.}
+\newblock
+\begin{APACrefURL} \url{https://openreview.net/pdf?id=HkSOlP9lg}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ramlau%
+\ \BBA {} Ring%
+}{%
+Ramlau%
+\ \BBA {} Ring%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+Ramlau:2007aa}
+\APACinsertmetastar {%
+Ramlau:2007aa}%
+\begin{APACrefauthors}%
+Ramlau, R.%
+\BCBT {}\ \BBA {} Ring, W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A {M}umford--{S}hah level-set approach for the inversion
+  and segmentation of {X}-ray tomography data} {A {M}umford--{S}hah level-set
+  approach for the inversion and segmentation of {X}-ray tomography
+  data}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Computational Physics}{221}{2}{539---557}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ray%
+}{%
+Ray%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+Ray:2013aa}
+\APACinsertmetastar {%
+Ray:2013aa}%
+\begin{APACrefauthors}%
+Ray, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Bayesian Inverse Problems with Non-conjugate Priors}
+  {Bayesian inverse problems with non-conjugate priors}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Electronic Journal of Statistics}{7}{}{2516--2549}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Romanov%
+, Dahl%
+, Dong%
+\BCBL {}\ \BBA {} Hansen%
+}{%
+Romanov%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+Romanov:2016aa}
+\APACinsertmetastar {%
+Romanov:2016aa}%
+\begin{APACrefauthors}%
+Romanov, M.%
+, Dahl, B\BPBI A.%
+, Dong, Y.%
+\BCBL {}\ \BBA {} Hansen, P\BPBI C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Simultaneous tomographic reconstruction and segmentation
+  with class priors} {Simultaneous tomographic reconstruction and segmentation
+  with class priors}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Inverse Problems in Science and
+  Engineering}{24}{8}{1432--1453}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ronneberger%
+, Fischer%
+\BCBL {}\ \BBA {} Brox%
+}{%
+Ronneberger%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+Ronneberger:2015aa}
+\APACinsertmetastar {%
+Ronneberger:2015aa}%
+\begin{APACrefauthors}%
+Ronneberger, O.%
+, Fischer, P.%
+\BCBL {}\ \BBA {} Brox, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{U-Net}: {C}onvolutional Networks for Biomedical Image
+  Segmentation} {{U-Net}: {C}onvolutional networks for biomedical image
+  segmentation}.{\BBCQ}
+\newblock
+\BIn{} N.~Navab, J.~Hornegger, W\BPBI M.~Wells\BCBL {}\ \BBA {} A\BPBI
+  F.~Frangi\ (\BEDS), \APACrefbtitle {{Medical Image Computing and
+  Computer-Assisted Intervention -- MICCAI 2015: 18th International Conference,
+  Munich, Germany, October 5-9, 2015, Proceedings, Part III}} {{Medical Image
+  Computing and Computer-Assisted Intervention -- MICCAI 2015: 18th
+  International Conference, Munich, Germany, October 5-9, 2015, Proceedings,
+  Part III}}\ (\BVOL\ 9351, \BPGS\ 234--241).
+\newblock
+\APACaddressPublisher{}{Springer Verlag}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Rubinstein%
+, Bruckstein%
+\BCBL {}\ \BBA {} Elad%
+}{%
+Rubinstein%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2010}}%
+}]{%
+Rubinstein:2010aa}
+\APACinsertmetastar {%
+Rubinstein:2010aa}%
+\begin{APACrefauthors}%
+Rubinstein, R.%
+, Bruckstein, M.%
+\BCBL {}\ \BBA {} Elad, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Dictionaries for sparse representation modeling}
+  {Dictionaries for sparse representation modeling}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Proceedings of the IEEE}{98}{6}{1045--1057}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sidky%
+, J{\o}rgensen%
+\BCBL {}\ \BBA {} Pan%
+}{%
+Sidky%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2012}}%
+}]{%
+Sidky:2012aa}
+\APACinsertmetastar {%
+Sidky:2012aa}%
+\begin{APACrefauthors}%
+Sidky, E\BPBI Y.%
+, J{\o}rgensen, J\BPBI H.%
+\BCBL {}\ \BBA {} Pan, X.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Convex optimization problem prototyping for image
+  reconstruction in computed tomography with the {Chambolle-Pock} algorithm}
+  {Convex optimization problem prototyping for image reconstruction in computed
+  tomography with the {Chambolle-Pock} algorithm}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Physics in Medicine \& Biology}{57}{10}{3065--3091}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Stuart%
+}{%
+Stuart%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+Stuart:2010aa}
+\APACinsertmetastar {%
+Stuart:2010aa}%
+\begin{APACrefauthors}%
+Stuart, A\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Inverse Problems: A {Bayesian} Perspective} {Inverse
+  problems: A {Bayesian} perspective}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Acta Numerica}{19}{}{451--559}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+van Waaij%
+\ \BBA {} van Zanten%
+}{%
+van Waaij%
+\ \BBA {} van Zanten%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+Waaij:2016aa}
+\APACinsertmetastar {%
+Waaij:2016aa}%
+\begin{APACrefauthors}%
+van Waaij, J.%
+\BCBT {}\ \BBA {} van Zanten, J\BPBI H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Gaussian Process Methods for One-dimensional Diffusions:
+  Optimal Rates and Adaptation} {Gaussian process methods for one-dimensional
+  diffusions: Optimal rates and adaptation}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Electronic Journal of Statistics,}{10}{}{628--645}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Yang%
+, Sun%
+, Li%
+\BCBL {}\ \BBA {} Xu%
+}{%
+Yang%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+Yang:2016aa}
+\APACinsertmetastar {%
+Yang:2016aa}%
+\begin{APACrefauthors}%
+Yang, Y.%
+, Sun, J.%
+, Li, H.%
+\BCBL {}\ \BBA {} Xu, Z.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Deep {ADMM-Net} for Compressive Sensing {MRI}} {Deep
+  {ADMM-Net} for compressive sensing {MRI}}.{\BBCQ}
+\newblock
+\BIn{} D\BPBI D.~Lee, M.~Sugiyama, U\BPBI V.~Luxburg, I.~Guyon\BCBL {}\ \BBA {}
+  R.~Garnett\ (\BEDS), \APACrefbtitle {{Advances in Neural Information
+  Processing Systems 29 (NIPS 2016)}} {{Advances in Neural Information
+  Processing Systems 29 (NIPS 2016)}}\ (\BVOL~29, \BPGS\ 10--18).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Yoon%
+, Pineda%
+\BCBL {}\ \BBA {} Fahrig%
+}{%
+Yoon%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2010}}%
+}]{%
+Yoon:2010aa}
+\APACinsertmetastar {%
+Yoon:2010aa}%
+\begin{APACrefauthors}%
+Yoon, S.%
+, Pineda, A\BPBI R.%
+\BCBL {}\ \BBA {} Fahrig, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Simultaneous segmentation and reconstruction: A level
+  set method approach for limited view computed tomography} {Simultaneous
+  segmentation and reconstruction: A level set method approach for limited view
+  computed tomography}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Medical Physics}{37}{5}{2329--2340}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+B.~Zhu%
+, Liu%
+, Cauley%
+, Rosen%
+\BCBL {}\ \BBA {} Rosen%
+}{%
+B.~Zhu%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+Zhu:2018aa}
+\APACinsertmetastar {%
+Zhu:2018aa}%
+\begin{APACrefauthors}%
+Zhu, B.%
+, Liu, J\BPBI Z.%
+, Cauley, S\BPBI F.%
+, Rosen, B\BPBI R.%
+\BCBL {}\ \BBA {} Rosen, M\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Image reconstruction by domain-transform manifold
+  learning} {Image reconstruction by domain-transform manifold
+  learning}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Nature}{555}{}{487--492}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+J\BHBI Y.~Zhu%
+, Park%
+, Isola%
+\BCBL {}\ \BBA {} Efros%
+}{%
+J\BHBI Y.~Zhu%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+Zhu:2017aa}
+\APACinsertmetastar {%
+Zhu:2017aa}%
+\begin{APACrefauthors}%
+Zhu, J\BHBI Y.%
+, Park, T.%
+, Isola, P.%
+\BCBL {}\ \BBA {} Efros, A\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Unpaired Image-to-Image Translation Using
+  Cycle-Consistent Adversarial Networks} {Unpaired image-to-image translation
+  using cycle-consistent adversarial networks}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {{2017 IEEE International Conference on Computer Vision
+  (ICCV)}} {{2017 IEEE International Conference on Computer Vision (ICCV)}}\
+  (\BPGS\ 2242--2251).
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

@@ -1,0 +1,32 @@
+Joint reconstruction:
+
+PSNR MRI: 31.31
+PSNR PET: 29.07
+
+Runtime: 50.72 s
+
+
+Separate reconstruction:
+
+PSNR MRI: 31.40
+PSNR PET: 27.15
+
+Runtime MRI: 14.593 s
+Runtime PET: 17.730 s
+
+
+Pseudoinverse reconstruction:
+
+PSNR MRI: 19.43
+PSNR PET: 16.70
+
+Runtime MRI: 1.2 ms
+Runtime PET: 39.1 ms
+
+
+Learned joint:
+
+PSNR MRI: 35.41
+PSNR PET: 29.66
+
+Runtime: 122 ms

@@ -1,0 +1,13 @@
+30 angles, very little noise (0.1% additivt noise)
+
+Let Tinv be learned inverse and g1, g2 the two data sets that are almost "same" object f1, f2. Let S be a U-Net. The joint loss is 
+C * (||Tinv(g1) - f1)|| + ||Tinv(g2) - f2||) + ||S(Tinv(g1), Tinv(g2)) - (f1 - f2)||
+
+const= 0.001, loss_tomo = 0.0005849567824043334, loss_difference = 8.327855539391749e-06
+const= 0.01, loss_tomo = 0.0004972603637725115, loss_difference = 4.362312211014796e-06
+const= 0.1, loss_tomo = 0.0003866103943437338, loss_difference = 3.4309132388443686e-06
+const= 1.0, loss_tomo = 0.0004563894181046635, loss_difference = 5.148833679413656e-06
+const= 10.0, loss_tomo = 0.0005413943435996771, loss_difference = 5.149949629412731e-06
+const= 100.0, loss_tomo = 0.0005362001829780638, loss_difference = 3.7046302168164402e-06
+const= 1000.0, loss_tomo = 0.002941108774393797, loss_difference = 3.881782504322473e-06
+const= 10000.0, loss_tomo = 0.028108319267630577, loss_difference = 2.9372299650276545e-06

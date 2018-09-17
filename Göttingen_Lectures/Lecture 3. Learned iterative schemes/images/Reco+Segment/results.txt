@@ -1,0 +1,12 @@
+30 angles, very little noise (0.1% additivt noise)
+
+Segmentation is an "off the shelf" u-net
+
+loss = C * loss_tomo + loss_segment
+
+const= 0.01, loss_tomo = 0.29847684502601624, loss_segment = 0.11377691477537155
+const= 0.1, loss_tomo = 0.009739563800394535, loss_segment = 0.09355870634317398
+const= 1.0, loss_tomo = 0.0011637121206149459, loss_segment = 0.08782286942005157
+const= 10.0, loss_tomo = 8.513716602465138e-05, loss_segment = 0.10852709412574768
+const= 100.0, loss_tomo = 8.23205045890063e-05, loss_segment = 0.1354188621044159
+const= 1000.0, loss_tomo = 4.4251399231143296e-05, loss_segment = 0.22386473417282104

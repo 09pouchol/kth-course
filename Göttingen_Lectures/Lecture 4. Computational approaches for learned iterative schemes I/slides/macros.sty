@@ -1,0 +1,252 @@
+%% Packages
+\RequirePackage[utf8x]{inputenc}
+\RequirePackage{hyperref}
+\RequirePackage{mathrsfs}
+\RequirePackage{amsfonts,amsthm,amsmath}
+\RequirePackage{etoolbox}
+\RequirePackage{xspace}
+\RequirePackage{paralist}
+\RequirePackage{mathtools} % The mathtools package must be loaded before cleverref, but after amsthm
+\RequirePackage{cleveref}
+
+%% Settings
+% For "cleveref"
+\crefname{equation}{}{}
+\Crefname{equation}{}{}
+\crefname{item}{}{}
+\Crefname{item}{}{}
+\crefname{example}{example}{examples}
+\Crefname{example}{Example}{Examples}
+
+%% Macros
+
+% Spaces
+%\newcommand*{\SPC}[1]{{\ensuremath{\mathscr{#1}}}}
+\newcommand*{\SPC}[1]{{\ensuremath{#1}}}
+\newcommand*{\SPCH}{\SPC{H}}
+\newcommand*{\SPCL}{\SPC{L}}
+\newcommand*{\SPCX}{\SPC{X}}
+\newcommand*{\SPCY}{\SPC{Y}}
+\newcommand*{\SPCZ}{\SPC{Z}}
+\newcommand*{\RecSpace}{{\SPCX}}
+\newcommand*{\DataSpace}{{\SPCY}}
+
+% Special spaces and sets
+\newcommand*{\RECOSPC}{\RecSpace}
+\newcommand*{\DATASPC}{\DataSpace}
+\newcommand*{\DATAMANIF}{{\ensuremath{M}}}
+
+\newcommand*{\LINOP}[2]{{L(#1, #2)}}
+\newcommand*{\BLINOP}[2]{{\SPCL(#1, #2)}}
+\newcommand*{\LEBES}[2]{\ensuremath{L^{#1}\left( #2 \right)}}
+
+\newcommand*{\FIELD}{{\ensuremath{\mathbb{F}}}}
+\newcommand*{\Fn}{{\ensuremath{\FIELD^n}}}
+\newcommand*{\Fm}{{\ensuremath{\FIELD^m}}}
+\newcommand*{\Fk}{{\ensuremath{\FIELD^k}}}
+\newcommand*{\Fmxn}{{\ensuremath{\FIELD^{m \times n}}}}
+\newcommand*{\Fnxn}{{\ensuremath{\FIELD^{n \times n}}}}
+\newcommand*{\Fmxm}{{\ensuremath{\FIELD^{m \times m}}}}
+
+\newcommand{\Real}{{\ensuremath{\mathbb{R}}}}
+\newcommand{\Complex}{{\ensuremath{\mathbb{C}}}}
+\newcommand{\Natural}{{\ensuremath{\mathbb{N}}}}
+\newcommand{\Integer}{{\ensuremath{\mathbb{Z}}}}
+\newcommand{\RR}{{\ensuremath{\mathbb{R}}}}
+\newcommand{\CC}{{\ensuremath{\mathbb{C}}}}
+\newcommand{\NN}{{\ensuremath{\mathbb{N}}}}
+\newcommand{\ZZ}{{\ensuremath{\mathbb{Z}}}}
+
+% Operators
+\newcommand*{\OP}[1]{{\ensuremath{\mathcal{#1}}}}
+
+\newcommand*{\OPA}{{\OP{A}}}
+\newcommand*{\OPB}{{\OP{B}}}
+\newcommand*{\OPC}{{\OP{C}}}
+\newcommand*{\OPD}{{\OP{D}}}
+\newcommand*{\OPE}{{\OP{E}}}
+\newcommand*{\OPF}{{\OP{F}}}
+\newcommand*{\OPG}{{\OP{G}}}
+\newcommand*{\OPH}{{\OP{H}}}
+\newcommand*{\OPI}{{\OP{I}}}
+\newcommand*{\OPJ}{{\OP{J}}}
+\newcommand*{\OPK}{{\OP{K}}}
+\newcommand*{\OPL}{{\OP{L}}}
+\newcommand*{\OPM}{{\OP{M}}}
+\newcommand*{\OPN}{{\OP{N}}}
+\newcommand*{\OPO}{{\OP{O}}}
+\newcommand*{\OPP}{{\OP{P}}}
+\newcommand*{\OPQ}{{\OP{Q}}}
+\newcommand*{\OPR}{{\OP{R}}}
+\newcommand*{\OPS}{{\OP{S}}}
+\newcommand*{\OPT}{{\OP{T}}}
+\newcommand*{\OPU}{{\OP{U}}}
+\newcommand*{\OPV}{{\OP{V}}}
+\newcommand*{\OPW}{{\OP{W}}}
+\newcommand*{\OPX}{{\OP{X}}}
+\newcommand*{\OPY}{{\OP{Y}}}
+\newcommand*{\OPZ}{{\OP{Z}}}
+
+\newcommand{\DISCOP}[1]{{\ensuremath{\mathsf{#1}}}}
+\newcommand*{\VECOPC}{{\ensuremath{\boldsymbol{\OP{C}}}}}
+\newcommand*{\VECOPI}{{\ensuremath{\boldsymbol{\OP{I}}}}}
+\newcommand*{\VECOPP}{{\ensuremath{\boldsymbol{\OP{P}}}}}
+\newcommand{\DISCOPT}{\DISCOP{T}}
+\newcommand*{\FT}{{\OP{F}}}
+\newcommand*{\ForwardOp}{{\OP{T}}}
+\newcommand*{\ForwardOpDisc}{{\DISCOP{T}}}
+\newcommand*{\DataDisc}{{\OP{D}}}
+\newcommand*{\RegFunc}{{\OP{R}}}
+\DeclareMathOperator*{\identity}{Id}
+\newcommand*{\FWDOP}{{\ForwardOp}}
+\newcommand*{\DISCFWDOP}{{\ForwardOpDisc}}
+\newcommand*{\DATAFUNC}{{\DataDisc}}
+\newcommand*{\REGFUNC}{{\RegFunc}}
+\newcommand*{\TOTALFUNC}{{\OP{J}}}
+
+
+% Discretization
+\newcommand*{\DISCR}[2]{{\ensuremath{\mathfrak{D}_{#1}(#2)}}}
+\newcommand*{\DISCRnX}{\DISCR{n}{\SPCX}}
+\newcommand*{\DISCRmY}{\DISCR{m}{\SPCY}}
+\newcommand*{\DISCRkZ}{\DISCR{k}{\SPCZ}}
+%\newcommand*{\SAMPL}[2]{{\ensuremath{\mathcal{S}^{\SPC{#2}}_{#1}}}}
+%\newcommand*{\INTERP}[2]{{\ensuremath{\mathcal{I}^{\SPC{#2}}_{#1}}}}
+\newcommand*{\SAMPL}{{\ensuremath{\mathsf{S}}}}
+\newcommand*{\INTERP}{{\ensuremath{\mathsf{I}}}}
+\newcommand*{\IX}{{\ensuremath{\INTERP_\SPCX}}}
+\newcommand*{\IY}{{\ensuremath{\INTERP_\SPCY}}}
+\newcommand*{\SX}{{\ensuremath{\SAMPL_\SPCX}}}
+\newcommand*{\SY}{{\ensuremath{\SAMPL_\SPCY}}}
+\newcommand*{\PROJDU}{{\ensuremath{\mathsf{P}}}}
+\newcommand*{\PROJUD}{{\ensuremath{\mathsf{Q}}}}
+\newcommand*{\PX}{{\ensuremath{\PROJDU_\SPCX}}}
+\newcommand*{\QX}{{\ensuremath{\PROJUD_\SPCX}}}
+%\newcommand*{\PnX}{{\ensuremath{\mathsf{P}}^{\SPCX}_{n}}}}
+%\newcommand*{\QnX}{{\ensuremath{\mathsf{Q}^{\SPCX}_{n}}}}
+
+
+% Useful math delimiter macros using mathtools
+% A macro \CMD supports three usage types:
+% 1. \CMD{<arg>}  --  standard size delimiters
+% 2. \CMD[<size modifier>]{<arg>}  --  adds <size modifier> to the delimiters, e.g. \big, \Big, \bigg, \Bigg
+% 3. \CMD*{<arg>}  --  adds \left and \right to the respective delimiters
+
+% SET
+% Syntax: \SET{ <element> \GIVEN <condition> }
+\providecommand\GIVEN{}  % just to make sure it exists
+% can be useful to refer to this outside \SET
+\newcommand{\SETSYMBOL}[1][]{\nonscript\:#1\vert\nonscript\:\mathopen{}\allowbreak}
+\DeclarePairedDelimiterX{\SET}[1]{\lbrace}{\rbrace}{\renewcommand \GIVEN{\SETSYMBOL[\delimsize]} #1 }
+
+% INTERVALS: (C)losed, (O)pen, (R)ight-open or (L)eft-open
+\DeclarePairedDelimiterX{\CINTERV}[2]{[}{]}{{#1},{#2}}
+\DeclarePairedDelimiterX{\OINTERV}[2]{(}{)}{{#1},{#2}}
+\DeclarePairedDelimiterX{\RINTERV}[2]{[}{)}{{#1},{#2}}
+\DeclarePairedDelimiterX{\LINTERV}[2]{(}{]}{{#1},{#2}}
+
+
+% ABS, NORM, INNER etc.
+% Empty arguments are replaced with \cdot, i.e., \NORM{} is equivalent to \NORM{\:\cdot\:}
+\DeclarePairedDelimiterX{\ABS}[1]{\lvert}{\rvert}{\ifblank{#1}{\:\cdot\:}{#1}}
+
+% Syntax: \NORM{<arg>} or \NORMIN{<subscript>}{<arg>}
+\DeclarePairedDelimiterX{\NORM}[1]{\lVert}{\rVert}{\ifblank{#1}{\,\cdot\,}{#1}}
+
+% Syntax: \INNER{<arg1>}{<arg2>} or \INNERIN{<subscript>}{<arg1>}{<arg2>}
+\DeclarePairedDelimiterX{\INNER}[2]{\langle}{\rangle}{\ifblank{#1}{\:\cdot\,}{#1},\ifblank{#2}{\,\cdot\,}{\, #2}}
+
+
+% Sets and properties
+\DeclareMathOperator*{\ARGINF}{arg\,inf}
+\DeclareMathOperator*{\ARGMAX}{arg\,max}
+\DeclareMathOperator*{\ARGMIN}{arg\,min}
+\DeclareMathOperator*{\ARGSUP}{arg\,sup}
+\DeclareMathOperator{\DEFEQ}{{\coloneqq}}
+\DeclareMathOperator{\DET}{det}
+\DeclareMathOperator{\DIAG}{diag}
+\DeclareMathOperator{\DIM}{dim}
+\DeclareMathOperator{\DIV}{div}
+\DeclareMathOperator{\DOMAIN}{{dom}}
+\DeclareMathOperator{\EQDEF}{{\eqqcolon}}
+\DeclareMathOperator{\GRAD}{grad}
+\DeclareMathOperator{\ID}{Id}
+\DeclareMathOperator{\IND}{\iota}
+\DeclareMathOperator{\KER}{ker}
+\DeclareMathOperator{\NULL}{N}
+\DeclareMathOperator{\PROX}{prox}
+\DeclareMathOperator{\RAN}{ran}
+\DeclareMathOperator{\RANGE}{range}
+\DeclareMathOperator{\RANK}{rank}
+\DeclareMathOperator{\SHOULDEQ}{{\stackrel{!}{=}}}
+\DeclareMathOperator{\SIGN}{sign}
+\DeclareMathOperator{\SINC}{sinc}
+\DeclareMathOperator{\SPAN}{span}
+\DeclareMathOperator{\SUPP}{supp}
+\DeclareMathOperator{\TRIDIAG}{{tridiag}}
+\DeclareMathOperator{\TV}{TV}
+
+\newcommand*{\SPHERE}{{\ensuremath{\mathscr{S}}}}
+
+
+% Misc useful stuff
+\newcommand*{\CCONJ}[1]{{\ensuremath{\overline{#1}}}}
+\newcommand*{\FUNCRESTR}[2]{{\ensuremath{\left. \vphantom{g_{g_g}} {#1} \right|_{#2}}}}
+\newcommand*{\TRANSP}[1]{{\ensuremath{#1^{\mathrm{T}}}}}
+\newcommand*{\HERM}[1]{{\ensuremath{#1^{\mathrm{H}}}}}
+\newcommand*{\I}{\ensuremath{\mathit{i}}}
+\newcommand*{\STACK}[2]{{\ensuremath{\genfrac{}{}{0pt}{0}{#1}{#2}}}}
+\newcommand*{\STACKSS}[2]{{\ensuremath{\genfrac{}{}{0pt}{1}{#1}{#2}}}}
+\newcommand*{\STACKSSS}[2]{{\ensuremath{\genfrac{}{}{0pt}{2}{#1}{#2}}}}
+\newcommand*{\D}{{\ensuremath{\mathrm{d}}}}
+\newcommand*{\FFAC}[1]{{\ifblank{#1}{\ensuremath{(2\pi)^{-\nicefrac{1}{2}}}}{\ensuremath{(2\pi)^{#1}}}}}
+
+\newcommand*{\ie}{{i.e.}\xspace}
+\newcommand*{\cf}{{cf.}\xspace}
+\newcommand*{\eg}{{e.g.}\xspace}
+\newcommand*{\etc}{{etc.}\xspace}
+\newcommand*{\wrt}{{w.r.t.}\@\xspace}
+\newcommand*{\cpp}[1][]{$\text{C\hspace{-.25ex}}^{_{_{_{++}}}}
+    \ifthenelse{\equal{#1}{}}{}{\text{\hspace{-.625ex}#1}}$}
+\newcommand*{\matlab}{\textsc{matlab}\xspace}
+\newcommand*{\python}{Python\xspace}
+\newcommand*{\apriori}{a~priori\xspace}
+\newcommand*{\aposteriori}{a~posteriori\xspace}
+
+
+\newcommand*{\BDZERO}{\boldsymbol{0}}
+\newcommand*{\BDe}{\boldsymbol{e}}
+\newcommand*{\BDf}{\boldsymbol{f}}
+\newcommand*{\BDg}{\boldsymbol{g}}
+\newcommand*{\BDalpha}{\boldsymbol{\alpha}}
+\newcommand*{\BDbeta}{\boldsymbol{\beta}}
+\newcommand*{\BDnu}{\boldsymbol{\nu}}
+\newcommand*{\BDA}{\boldsymbol{A}}
+\newcommand*{\BDB}{\boldsymbol{B}}
+\newcommand*{\BDD}{\boldsymbol{D}}
+\newcommand*{\BDF}{\boldsmbol{F}}
+\newcommand*{\BDG}{\boldsymbol{G}}
+\newcommand*{\BDI}{\boldsymbol{I}}
+\newcommand*{\BDU}{\boldsymbol{U}}
+\newcommand*{\BDV}{\boldsymbol{V}}
+\newcommand*{\BDSigma}{\boldsymbol{\Sigma}}
+
+\newcommand{\LieGroup}{G}
+\newcommand{\DeforSpace}{V}
+\newcommand{\domain}{\Omega}
+\DeclareMathOperator{\ShapeFunc}{\mathcal{S}_{\text{sh}}}
+\DeclareMathOperator{\DataDiscr}{\mathcal{D}}
+\DeclareMathOperator{\DeforOp}{\mathcal{W}}
+\DeclareMathOperator*{\argmin}{arg\,min}
+\newcommand{\template}{I}
+\newcommand{\image}{f}
+\newcommand{\trueimage}{\image^*}
+\newcommand{\estimage}{\widehat{\image}}
+\newcommand{\data}{g}
+\newcommand{\datanoise}{\data_{\text{noise}}}
+\newcommand{\defor}{\phi}
+\newcommand{\estdefor}{\widehat{\defor}}
+\newcommand{\truedefor}{\phi^*}
+\DeclareMathOperator*{\Id}{Id}
+\newcommand{\vfield}{v}
+\newcommand{\dint}{\,\hbox{d}}
